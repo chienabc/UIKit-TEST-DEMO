@@ -15,7 +15,10 @@ class ViewController: UIViewController {
         
         
         
-        print("XIN CHÀO GITHUB")
+//        print("XIN CHÀO GITHUB")
+        print("THANH TOÁN BẰNG VISA")
+        print("THANH TOÁN BẰNG MOMO")
+        
     }
 
 
